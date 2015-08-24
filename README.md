@@ -5,8 +5,8 @@ To get this to run, note that you must have your `TWILIO_ACCOUNT_SID` and `TWILI
 
 USAGE:
 
-```python bid_watcher.py SEARCH_ENTRY MAX_BID_PRICE MAX_WITH_SHIPPING MILLISECONDS_BEFORE_NOTIF PHONE_NUMBER_1 PHONE_NUMBER_2 ...```
+```python bid_watch.py SEARCH_ENTRY MAX_BID_PRICE MAX_WITH_SHIPPING MILLISECONDS_BEFORE_NOTIF PHONE_NUMBER_1 PHONE_NUMBER_2 ...```
 
 EXAMPLE:
 
-```python bid_watcher.py "PAX prime 2015 saturday" 45.00 50.00 300000 1231414251```
+```python bid_watch.py "PAX prime 2015 saturday" 45.00 50.00 300000 1231414251```
